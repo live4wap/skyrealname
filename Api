@@ -1,7 +1,8 @@
 [
   { 
-    "id": "1", 
-    "url": "http://103.144.89.251/player.php?stream=2"
+    "id": "3", 
+    "url": "http://103.144.89.251/player.php?stream=2",
+"proxy": "https://anywhere.pwisetthon.com/"
   
   },
   { 
@@ -11,7 +12,7 @@
     "player": "p16"
   },
   { 
-    "id": "3", 
+    "id": "1", 
     "url": "https://taimoor.pro.bd/live/crichd/play.php?id=starhindi",
     "player": "p15"
   }
