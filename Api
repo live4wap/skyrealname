@@ -1,8 +1,8 @@
 [
   { 
     "id": "1", 
-    "url": "http://103.144.89.251/player.php?stream=2",
-    "player": "p15"
+    "url": "http://103.144.89.251/player.php?stream=2"
+  
   },
   { 
     "id": "2", 
