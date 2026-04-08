@@ -1,6 +1,9 @@
 [
-  "https://sportsipl.vercel.app/JIO/channels.json",
+"https://raw.githubusercontent.com/alex4528x/m3u/refs/heads/main/jtv.m3u",
+"https://raw.githubusercontent.com/alex4528x/m3u/refs/heads/main/jstar.m3u",
+"https://sportsipl.vercel.app/JIO/channels.json",
   "https://allrounder-live2.pages.dev/api/cookie.json",
+"https://allrounder-live4.pages.dev/api/cookie.json",
   "https://sayan-json-official.pages.dev/api/cookie.json",
   "https://j1.uhd2026.workers.dev/",
   "https://chlive.site/jtv.php",
