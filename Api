@@ -13,8 +13,8 @@
   },
   { 
     "id": "2", 
-    "url": "http://103.144.89.251/player.php?stream=3",
-    "proxy": "https://anywhere.pwisetthon.com/",
+    "url": "http://ftpbdlive.com/img/play.php?stream=STAR-SPORTS-1",
+    "proxy": "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=",
     "player": "p16"
   },
   { 
