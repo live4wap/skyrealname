@@ -8,10 +8,7 @@
   { 
     "id": "3", 
     "url": "http://103.144.89.251/player.php?stream=2",
-"proxy": "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url=
-"
-  
-  },
+"proxy": "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url="},
   { 
     "id": "2", 
     "url": "http://ftpbdlive.com/img/play.php?stream=STAR-SPORTS-1",
