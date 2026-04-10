@@ -7,16 +7,14 @@
 
   { 
     "id": "3", 
-    "url": "http://103.144.89.251/player.php?stream=2",
-"proxy": "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url="},
+    "url": "http://103.144.89.251/player.php?stream=2"},
   { 
-    "id": "2", 
-    "url": "http://ftpbdlive.com/img/play.php?stream=STAR-SPORTS-1",
-    "proxy": "https://sony-liv-proxyb.wasmer.app/stream_proxy.php?url="
+    "id": "1", 
+    "url": "http://ftpbdlive.com/img/play.php?stream=STAR-SPORTS-1"
     
   },
   { 
-    "id": "1", 
+    "id": "2", 
     "url": "https://taimoor.pro.bd/live/crichd/play.php?id=starhindi",
     "player": "p15"
   }
