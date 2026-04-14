@@ -143,10 +143,10 @@
     "id": "sts1tmhd",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png",
     "name": "Star Sports 1 Tamil HD",
-    "cookie": "__hdnea__=st=1776084214~exp=1776105814~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/*~hmac=25e793d11f6cdce6b6b768d6c3d974a39ffedc838def74f4fae7612a49a9d892",
+    "cookie": "__hdnea__=st=1776168690~exp=1776190290~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/*~hmac=82fbc06c19887e4a04ee6e6fa083fa2c115866a43771093aaf24fa188f41a048",
     "keyId": "2272c0bc6b2e5cb090b1f55996e0026c",
     "key": "943923934de1d5536ab01c67fca8b337",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd"
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd"
   },
   
   {
