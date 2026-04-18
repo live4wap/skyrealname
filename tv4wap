@@ -111,7 +111,7 @@
     "id": "sts2hd",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png",
     "name": "Star Sports HD2",
-    "cookie": "__hdnea__=st=1776499781~exp=1776521381~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=f5e0f29b2d5741cf88874c0b238090d24c3b0c56b8a34430cf56b0f018bc9235",
+    "cookie": "__hdnea__=st=1776519013~exp=1776540613~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=30e0710c84d49123d925ec2368fd709eef44714c9cba7139ce0030479906b4bf",
     "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
     "key": "e620a970cea474c491ac78ae71a4d764",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd"
