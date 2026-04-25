@@ -8,6 +8,16 @@
 
 
 
+  {
+    "id": "ss1h",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",
+    "name": "Star Sports HD1 Hindi",
+    "cookie":"__hdnea__=st=1777102606~exp=1777124206~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=1abaf078d2803bb759e748df62bf3a87c1862fb968820d3c21dea68abc8e4b5e",
+    "keyId": "400131994b445d8c8817202248760fda",
+    "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd"
+  },
+
 
 
 
