@@ -66,7 +66,16 @@
   },
   
   
-
+  {
+    "id": "sts1knhd",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_kannada_HD.png",
+    "name": "Star Sports 1 kannada HD",
+    "cookie":"__hdnea__=st=1777187379~exp=1777208979~acl=/bpk-tv/Star_Sports_1_Kannada_BTS/output/*~hmac=725d8b1d251602d8cf754a00f44b0b70df91108800d4a260e6b9b4479fcb2cb4",
+    "keyId": "9a6d058fa40b5460a946178900eb44cb",
+    "key": "791d7444110cec32d731ca0c33ac6c15",
+    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd"
+  },
+  
 
 
 
