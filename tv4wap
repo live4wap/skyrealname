@@ -59,7 +59,7 @@
     "id": "sts1tghd",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",
     "name": "Star Sports 1 Telugu HD",
-    "cookie":"__hdnea__=st=1777474350~exp=1777495950~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=f2d8c30dbd171aae00a8c83aef5bcf6642cc5ddfddaf7709b42f02f9a65b0d43",
+    "cookie":"__hdnea__=st=1777547317~exp=1777568917~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=270ce543786f851f158cc155ff64177903498be24b131633c24ecdfbc337f63c",
     "keyId": "49e84b9edfd85379b90c81b7d2d3d2bf",
     "key": "19c82d3ff094fa06af95820a1572ecb5",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd"
@@ -117,7 +117,7 @@
       "id": "sts2tmhd",
       "name": "Star Sports 2 Tamil HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1777474180~exp=1777495780~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=bf8459e9e6af0717506b8173e202b5811395dad096b87cde94fb97e656e02503",
+      "cookie": "__hdnea__=st=1777547138~exp=1777568738~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=4aa2196b3a7255604e47d5f2aba67a23c063023ac93dcd583baf0dd0ce7c6ef1",
       "keyId": "dc44fe6251825774b90d58dcfa7d94e0",
       "key": "63e3ae853f483a86752b5b9e6d61eb20",
       "logo": "https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg"
@@ -126,7 +126,7 @@
       "id": "sts2tghd",
       "name": "Star Sports 2 Telugu HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1777474214~exp=1777495814~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=cb2f43638870fcf5679bfc38e5000eb30e26bbbc59ce1ce09cba84175ef71011",
+      "cookie": "__hdnea__=st=1777551044~exp=1777572644~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=68789db44d15f165105fe20fb134352a97c5a762a1bbd49d334fc4f7fa9d0c4d",
       "keyId": "c8a2fb190fc957c1b8333af9a7a39d31",
       "key": "be7497b59d4ce9e33d29bfd1d38bad1d",
       "logo": "https://img.media.jio.com/tvpimages/84/67/302121_1749664974599_l_medium.jpg"
