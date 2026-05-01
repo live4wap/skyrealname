@@ -35,7 +35,7 @@
     "id": "sts1hd",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",
     "name": "Star Sports HD1",
-    "cookie":"__hdnea__=st=1777546816~exp=1777568416~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=56eb4fd816a254378b52ff0e33254d84619dd638c80f32a3687c886bc143db62",
+    "cookie":"__hdnea__=st=1777640115~exp=1777661715~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=82b6ef0292bc3b03c6452e72fb7ecbd71f0fc31a82dc85cd22464710531a37ea",
     "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
     "key": "859695076e67fe961836b564db6d689c",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd"
@@ -46,7 +46,7 @@
     "id": "sts1tmhd",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png",
     "name": "Star Sports 1 Tamil HD",
-    "cookie":"__hdnea__=st=1777547233~exp=1777568833~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=06e3c9225f438fe1f92bfa35c13d9810063c843b3252328090e532067928efdc",
+    "cookie":"__hdnea__=st=1777639406~exp=1777661006~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=857c8ffd16585240c1567942425024c02735a1cf8203c40f4db3d692fb1349ce",
     "keyId": "2272c0bc6b2e5cb090b1f55996e0026c",
     "key": "943923934de1d5536ab01c67fca8b337",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd"
@@ -59,7 +59,7 @@
     "id": "sts1tghd",
     "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",
     "name": "Star Sports 1 Telugu HD",
-    "cookie":"__hdnea__=st=1777547317~exp=1777568917~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=270ce543786f851f158cc155ff64177903498be24b131633c24ecdfbc337f63c",
+    "cookie":"__hdnea__=st=1777639485~exp=1777661085~acl=/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/*~hmac=b9ce1b0e1329aa5142f23eaac28a8af85c91426dda03e83a540b767d92b309c7",
     "keyId": "49e84b9edfd85379b90c81b7d2d3d2bf",
     "key": "19c82d3ff094fa06af95820a1572ecb5",
     "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/WDVLive/index.mpd"
